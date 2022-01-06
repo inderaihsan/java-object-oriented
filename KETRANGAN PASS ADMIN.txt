@@ -1,0 +1,16 @@
+KETERANGAN PASSWORD ADMIN:
+
+saat login dalam menu admin, maka user name dan 
+password yang berlaku adalah sebagai berikut:
+
+user : tika
+pass : tika
+
+user : dera
+pass : dera
+
+user : linggis
+pass : linggis
+
+user : yusril
+pass : yusril
